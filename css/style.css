@@ -1,0 +1,43 @@
+body {
+    background-color: #be9e66;
+    color: white;
+    font-size: 50px;
+    line-height: 70px;
+    letter-spacing: 5px;
+    font-family: futura, "times new roman", helvetica, arial, sans-serif;
+}
+
+p{
+    color: orange;
+    background-color: yellow;
+    width: 300px;
+    overflow: hidden;
+    text-decoration: overline
+}
+
+.special {
+    background-color: purple;
+    color: black;
+}
+.ontop {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    padding: 20px;
+    border: 20px solid red;
+}
+
+.myheader {
+    background-color: blue;
+    color:green;
+}
+
+#myh1 {
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+    font-family: "times new roman";
+}
