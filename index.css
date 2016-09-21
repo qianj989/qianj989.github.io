@@ -1,0 +1,27 @@
+h1 {
+    background-color: #acaca9;
+    color: black;
+    font-family: Arial;
+    font-size: 55px;
+    letter-spacing: -5px;
+    padding: 20px;
+}
+
+body {
+    background-color: #d5d5d5;
+    font-family: monospace; arial;
+    letter-spacing: -1px;
+}
+
+a {
+    text-decoration: none;
+    font-family: "new times roman"
+}
+
+.middletop {
+    background-color: #acaca9;
+    font-family: monospace; arial;
+    font-size: 18px;
+    border: 20px #8f8f8f;
+    padding: 20px;
+}
