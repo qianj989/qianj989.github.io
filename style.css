@@ -8,7 +8,7 @@ h1 {
     border-style: solid;
     border-width: 30px;
     background-size: 300px 200px;
-    margin: 1cm 4cm 1cm 0cm;
+    margin: 1cm 24cm 1cm 0.95cm;
 
 }
 
@@ -26,9 +26,23 @@ a {
 .middletop {
     background-color: #acaca9;
     font-family: monospace; arial;
-    font-size: 18px;
+    font-size: 20px;
     border: 20px #8f8f8f;
-    padding: 20px;
+    padding: 50px;
     border-style: solid;
-    border-width: medium;
+    border-width: 30px;
+    margin: 0cm 6.5cm 0cm 6.5cm;
+}
+
+.topright {
+    background-color: #acaca9;
+    color: #acaca9;
+    font-family: Arial;
+    font-size: 55px;
+    letter-spacing: 3.2px;
+    border: 20px #8f8f8f;
+    border-style: solid;
+    border-width: 30px;
+    background-size: 300px 200px;
+    margin: -5.9cm 1cm 1cm 24cm;
 }
