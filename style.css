@@ -3,8 +3,13 @@ h1 {
     color: black;
     font-family: Arial;
     font-size: 55px;
-    letter-spacing: -5px;
-    padding: 20px;
+    letter-spacing: 3.2px;
+    border: 20px #8f8f8f;
+    border-style: solid;
+    border-width: 30px;
+    background-size: 300px 200px;
+    margin: 1cm 4cm 1cm 0cm;
+
 }
 
 body {
@@ -24,4 +29,6 @@ a {
     font-size: 18px;
     border: 20px #8f8f8f;
     padding: 20px;
+    border-style: solid;
+    border-width: medium;
 }
