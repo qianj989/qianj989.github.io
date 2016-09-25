@@ -1,0 +1,169 @@
+body {
+    background-color: white;
+    font-family: impact;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: gray;
+    
+}
+p {
+    color: black;
+    font-family: "news times roman";
+    letter-spacing: -1px;
+    font-size: 20px;
+    background-color: #bcbcbc;
+    margin: 1cm 5cm;
+}
+
+.square1 {
+    background-color: #c11414;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 9px;
+    font-weight: 900;
+    border-color: #9f1010;
+    border-width: 20px;
+    border-style: solid;
+    margin: 2cm 24cm 2cm 3.9cm;
+}
+
+.square2 {
+    background-color: #fc651b;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #b34a16;
+    border-width: 20px;
+    border-style: solid;
+    margin: -6.1cm 20cm 22cm 7.2cm;
+}
+
+.square3 {
+    background-color: #fde620;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #b4a41a;
+    border-width: 20px;
+    border-style: solid;
+    margin: -26.1cm 15.9cm 22cm 11.2cm;
+}
+
+.square4 {
+    background-color: #74fb1b;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #55b813;
+    border-width: 20px;
+    border-style: solid;
+    margin: -20.8cm 23.1cm 22cm 3.9cm
+}
+
+.square5 {
+    background-color: #2afd97;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #13b868;
+    border-width: 20px;
+    border-style: solid;
+    margin: -26.1cm 18.9cm 22cm 8.1cm;
+}
+
+.square6 {
+    background-color: #2ad3fd;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #1791b0;
+    border-width: 20px;
+    border-style: solid;
+    margin: -26.1cm 14.9cm 22cm 12.3cm;
+}
+
+.square7 {
+    background-color: #203af9;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 9px;
+    font-weight: 900;
+    border-color: #1729b0;
+    border-width: 20px;
+    border-style: solid;
+    margin: -20.8cm 24cm 2cm 3.9cm;
+}
+
+.square8 {
+    background-color: #8b20f9;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #5f14ad;
+    border-width: 20px;
+    border-style: solid;
+    margin: -6.1cm 19.7cm 22cm 7.3cm
+}
+
+.square9 {
+    background-color: #fc1bff;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    border-color: #ab14ad;
+    border-width: 20px;
+    border-style: solid;
+    margin: -26.1cm 15.5cm 22cm 11.6cm
+}
+
+.special1 {
+    background-color: #ffffff;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 29px;
+    font-weight: 900;
+    border-width: 20px;
+    border-style: solid;
+    margin-top: -36.9cm;
+    margin-right: 3.9cm;
+    margin-bottom: 40cm;
+    margin-left: 17cm;
+    border-bottom-color: white;
+}
+
+.special2 {
+    background-color: #ffffff;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 56px;
+    font-weight: 900;
+    border-width: 20px;
+    border-style: solid;
+    margin: -38.7cm 3.9cm 40cm 17cm;
+    border-top-color: white;
+    border-bottom-color: white;
+}
+
+.special3 {
+    background-color: #ffffff;
+    font-family: futura;
+    font-size: 100px;
+    letter-spacing: 56px;
+    font-weight: 900;
+    border-width: 20px;
+    border-style: solid;
+    margin: -38.7cm 3.9cm 40cm 17cm;
+    border-top-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
