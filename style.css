@@ -20,7 +20,9 @@ body {
 
 a {
     text-decoration: none;
-    font-family: "new times roman"
+    font-family: impact;
+    letter-spacing: 2px;
+    color: gray;
 }
 
 .middletop {
