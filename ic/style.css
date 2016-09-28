@@ -136,6 +136,7 @@ p {
     margin-bottom: 40cm;
     margin-left: 17cm;
     border-bottom-color: white;
+    padding-left: 10px;
 }
 
 .special2 {
@@ -149,6 +150,7 @@ p {
     margin: -38.7cm 3.9cm 40cm 17cm;
     border-top-color: white;
     border-bottom-color: white;
+    padding-left: 10px;
 }
 
 .special3 {
@@ -161,6 +163,7 @@ p {
     border-style: solid;
     margin: -38.7cm 3.9cm 40cm 17cm;
     border-top-color: white;
+    padding-left: 10px;
 }
 
 a {

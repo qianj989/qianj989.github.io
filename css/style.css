@@ -41,3 +41,42 @@ a {
     text-decoration: none;
     font-family: "times new roman";
 }
+
+.circle {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    color: red;
+    float: left;
+    color: white;
+    border-radius: 100%;
+}
+
+.wrapper {
+    background-color: black;
+    margin: 0 auto;
+    width: 300px;
+    font-size: 0;
+}
+
+.column {
+    color: red;
+    display: inline-block;
+    padding: 0 auto;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+.bottom {
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    background-color: lime;
+    border-radius: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 100;
+}
