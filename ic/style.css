@@ -15,6 +15,16 @@ p {
     margin: 1cm 5cm;
 }
 
+.wrapper {
+    background-color: black;
+    margin: 0 auto;
+    width: 300px;
+    font-size: 0;
+    float: left;
+}
+
+
+
 .square1 {
     background-color: #c11414;
     font-family: futura;
@@ -23,8 +33,7 @@ p {
     font-weight: 900;
     border-color: #9f1010;
     border-width: 20px;
-    border-style: solid;
-    margin: 2cm 24cm 2cm 3.9cm;
+    
 }
 
 .square2 {
@@ -36,7 +45,7 @@ p {
     border-color: #b34a16;
     border-width: 20px;
     border-style: solid;
-    margin: -6.1cm 20cm 22cm 7.2cm;
+    
 }
 
 .square3 {
@@ -48,7 +57,7 @@ p {
     border-color: #b4a41a;
     border-width: 20px;
     border-style: solid;
-    margin: -26.1cm 15.9cm 22cm 11.2cm;
+    
 }
 
 .square4 {
@@ -60,7 +69,7 @@ p {
     border-color: #55b813;
     border-width: 20px;
     border-style: solid;
-    margin: -20.8cm 23.1cm 22cm 3.9cm
+    
 }
 
 .square5 {
@@ -72,7 +81,6 @@ p {
     border-color: #13b868;
     border-width: 20px;
     border-style: solid;
-    margin: -26.1cm 18.9cm 22cm 8.1cm;
 }
 
 .square6 {
@@ -84,7 +92,6 @@ p {
     border-color: #1791b0;
     border-width: 20px;
     border-style: solid;
-    margin: -26.1cm 14.9cm 22cm 12.3cm;
 }
 
 .square7 {
@@ -96,7 +103,6 @@ p {
     border-color: #1729b0;
     border-width: 20px;
     border-style: solid;
-    margin: -20.8cm 24cm 2cm 3.9cm;
 }
 
 .square8 {
@@ -108,7 +114,6 @@ p {
     border-color: #5f14ad;
     border-width: 20px;
     border-style: solid;
-    margin: -6.1cm 19.7cm 22cm 7.3cm
 }
 
 .square9 {
@@ -120,7 +125,6 @@ p {
     border-color: #ab14ad;
     border-width: 20px;
     border-style: solid;
-    margin: -26.1cm 15.5cm 22cm 11.6cm
 }
 
 .special1 {

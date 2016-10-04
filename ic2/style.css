@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+    font-family: impact;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: gray;
+    
+}
+p {
+    color: white;
+    font-family: "news times roman";
+    letter-spacing: 2px;
+    font-size: 20px;
+    border: 300px;
+    padding: 200px;
+}
+
+.special1 {
+    background-color: white;
+    position: fixed;
+    bottom: 220;
+    margin: 0 auto;
+    z-index: 500;
+    padding: 100px 2000px;
+}
+
+.special2 {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    right: 100px;
+    margin: 0 auto;
+    z-index: 510;
+    padding: 300px 50px;
+}
+
+.special3 {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 100px;
+    margin: 0 auto;
+    z-index: 520;
+    padding: 300px 30px;
+}
+
+.special4 {
+    background-color: black;
+    position: fixed;
+    bottom: -250;
+    left: 350px;
+    margin: 0 auto;
+    z-index: 530;
+    border-radius: 100%;
+}
+
+.special5 {
+    background-color: black;
+    position: fixed;
+    top: -300;
+    right: 350px;
+    margin: 0 auto;
+    z-index: 540;
+    border-radius: 100%;
+}
+.wrapper {
+    overflow: hidden;
+}
+
+.square1 {
+    float: left;
+    width: 500px;
+    position: absolute;
+    z-index: 10;
+}
+
+.square2 {
+    float: right;
+    margin-top: 500px;
+    position: relative;
+    z-index: 20;
+}
+
+.square3 {
+    float: left;
+    margin-top: 900px;
+    position: relative;
+    z-index: 30;
+}
+
+.square4 {
+    float: right;
+    margin-top: 580px;
+    position: relative;
+    z-index: 40;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    letter-spacing: 1px;
+}
