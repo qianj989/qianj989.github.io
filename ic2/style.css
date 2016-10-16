@@ -4,7 +4,7 @@ body {
     font-size: 30px;
     letter-spacing: 5px;
     color: gray;
-    
+    margin: 0;
 }
 p {
     color: white;
@@ -16,7 +16,7 @@ p {
 }
 
 .special1 {
-    background-color: white;
+    background-color: black;
     position: fixed;
     bottom: 220;
     margin: 0 auto;
@@ -63,36 +63,35 @@ p {
     z-index: 540;
     border-radius: 100%;
 }
-.wrapper {
-    overflow: hidden;
+
+.square img{
+    width: 100%;
 }
 
 .square1 {
-    float: left;
-    width: 500px;
-    position: absolute;
-    z-index: 10;
+    width: 50%;
+    margin-left: 0%;
+    
 }
 
 .square2 {
-    float: right;
-    margin-top: 500px;
-    position: relative;
-    z-index: 20;
+    width: 50%;
+    margin-left: 50%;
 }
 
 .square3 {
-    float: left;
-    margin-top: 900px;
-    position: relative;
-    z-index: 30;
+    width: 50%;
+    margin-left: 0%;
 }
 
 .square4 {
-    float: right;
-    margin-top: 580px;
-    position: relative;
-    z-index: 40;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.square5 {
+    width: 50%;
+    margin-left: 0%;
 }
 
 a {

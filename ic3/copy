@@ -1,0 +1,69 @@
+<div class="square square1">
+				<img src="valkyrie.jpg"></img>
+			</div>
+			<div class="square square2">
+				<img src="kelpie.jpg"></img>
+			</div>
+			<div class="square square3">
+				<img src="basilisk.jpg"></img>
+			</div>
+			<div class="square square4">
+				<img src="blackshuck.jpg"></img>
+			</div>
+			<div class="square square5">
+				<img src="banshee.jpg"></img>
+			</div>
+			<div class="square square6">
+				<img src="europeandragon.jpg"></img>
+			</div>
+			<div class="square square7">
+				<img src="cerberus.jpg"></img>
+			</div>
+			<div class="square square8">
+				<img src="hernethehunter.jpg"></img>
+			</div>
+
+.square img{
+    width: 100%;
+}
+
+.square1 {
+    width: 50%;
+    margin-left: 0%;
+    
+}
+
+.square2 {
+    width: 50%;
+    margin-left: 50%;
+}
+
+.square3 {
+    width: 50%;
+    margin-left: 0%;
+}
+
+.square4 {
+    width: 50%;
+    margin-left: 50%;
+}
+
+.square5 {
+    width: 50%;
+    margin-left: 0%;
+}
+
+.square6 {
+    width: 50%;
+    margin-left: 50%;
+}
+
+.square7 {
+    width: 50%;
+    margin-left: 0%;
+}
+
+.square8 {
+    width: 50%;
+    margin-left: 50%;
+}

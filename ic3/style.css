@@ -1,0 +1,135 @@
+body {
+    background-color: white;
+    font-family: futura;
+    font-size: 30px;
+    color: gray;
+    margin: 0;
+}
+
+.container {
+    margin-top: 28%;
+    margin-left: 28%;
+    width: 500px;
+    height: 800px;
+    position: relative;
+    display:inline-block;
+}
+
+.shape {
+    background-color: black;
+    width: 460px;
+    height: 760px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+    
+}
+
+.shape-two {
+    width: 420px;
+    height: 720px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 20;
+}
+
+.shape-three {
+    width: 380px;
+    height: 680px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: black;
+    z-index: 30;
+}
+
+.shape-four {
+    width: 340px;
+    height: 680px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 40;
+}
+
+.shape-five {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 300px;
+    height: 600px;
+    background-color: black;
+    z-index: 50;
+}
+
+.shape-six {
+    position: absolute;
+    width: 260px;
+    height: 560px;
+    top: 20px;
+    left: 20px;
+    z-index: 60;
+}
+
+.shape-seven {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 220px;
+    height: 520px;
+    background-color: black;
+    z-index: 70;
+}
+
+.shape-eight {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 180px;
+    height: 480px;
+    z-index: 80;
+}
+
+.shape-nine {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 140px;
+    height: 440px;
+    z-index: 90;
+    background-color: black;
+}
+
+.shape-ten {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 400px;
+    z-index: 100;
+}
+
+.shape-botton {
+    position: absolute;
+    display: block;
+    top: 20px;
+    left: 20px;
+    background-image: url(spacealien.gif);
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 360px;
+    overflow: hidden;
+    white-space: nowrap;
+    z-index: 110;
+}
+
+.shape-botton:hover {
+    background-position: -600px -50px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}

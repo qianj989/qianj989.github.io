@@ -5,6 +5,7 @@ body {
     line-height: 70px;
     letter-spacing: 5px;
     font-family: futura, "times new roman", helvetica, arial, sans-serif;
+    margin: 0;
 }
 
 p {
@@ -80,3 +81,8 @@ a {
     right: 40px;
     z-index: 100;
 }
+
+background-image: url(......);
+display: block;
+.mybotton: hover/active
+background-position: -200px ;
