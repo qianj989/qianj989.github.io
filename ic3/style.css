@@ -116,7 +116,7 @@ body {
     display: block;
     top: 20px;
     left: 20px;
-    background-image: url(spacealien.gif);
+    background-image: url(10.gif);
     background-repeat: no-repeat;
     width: 60px;
     height: 360px;
@@ -126,7 +126,7 @@ body {
 }
 
 .shape-botton:hover {
-    background-position: -600px -50px;
+    background-position: -60px 0;
 }
 
 a {
