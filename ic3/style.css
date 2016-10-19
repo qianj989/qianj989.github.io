@@ -5,6 +5,10 @@ body {
     color: gray;
     margin: 0;
 }
+.word {
+    margin-top: 400px;
+    width: 400px;
+}
 
 .container {
     margin-top: 28%;
