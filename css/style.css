@@ -1,88 +1,65 @@
-body {
-    background-color: #be9e66;
-    color: white;
-    font-size: 50px;
-    line-height: 70px;
-    letter-spacing: 5px;
-    font-family: futura, "times new roman", helvetica, arial, sans-serif;
-    margin: 0;
-}
 
-p {
-    color: orange;
-    background-color: yellow;
-    width: 300px;
-    overflow: hidden;
-    text-decoration: overline
-}
-
-.special {
-    background-color: purple;
-    color: black;
-}
-.ontop {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    margin: 0;
-    padding: 20px;
-    border: 20px solid red;
-}
-
-.myheader {
-    background-color: blue;
-    color:green;
-}
-
-#myh1 {
-    font-family: arial;
-}
-
-a {
-    text-decoration: none;
-    font-family: "times new roman";
-}
-
-.circle {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    color: red;
-    float: left;
-    color: white;
-    border-radius: 100%;
-}
-
-.wrapper {
-    background-color: black;
-    margin: 0 auto;
-    width: 300px;
-    font-size: 0;
-}
-
-.column {
-    color: red;
-    display: inline-block;
-    padding: 0 auto;
-    font-size: 20px;
-    vertical-align: top;
-}
-
-.bottom {
-    font-size: 40px;
+.box {
     width: 200px;
     height: 200px;
-    line-height: 200px;
-    background-color: lime;
-    border-radius: 100%;
-    text-align: center;
-    position: fixed;
-    bottom: 40px;
-    right: 40px;
-    z-index: 100;
+    background-color:blue;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
+@keyframes pulse {
+    0% {
+        background-color: blue;
+    }
+    50% {
+        background-color: green;
+    }
+    100% {
+        background-color: blue;
+    }
+}
+
+.clock {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 100%;
+    position: relative;
+    animation-name: myclock;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.seconds {
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    position: absolute;
+    top: 98px;
+    left: 100px;
+}
+
+@keyframes myclock {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+    
+    
 background-image: url(......);
 display: block;
 .mybotton: hover/active
 background-position: -200px ;
+
+background-size: %;  ////300%;   hover:-100%;
+width: %;
+transition: all 1s;
+change the size of the box;
+opacity: for transition images,
+two images layered, and use opacity to do the transition.
+use the position: absolute; opacity: 0-1

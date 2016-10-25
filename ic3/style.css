@@ -115,22 +115,35 @@ body {
     z-index: 100;
 }
 
-.shape-botton {
+.outer {
     position: absolute;
     display: block;
     top: 20px;
     left: 20px;
-    background-image: url(10.gif);
-    background-repeat: no-repeat;
     width: 60px;
     height: 360px;
+    background-repeat: no-repeat;
     overflow: hidden;
-    white-space: nowrap;
     z-index: 110;
 }
 
-.shape-botton:hover {
-    background-position: -60px 0;
+.inter {
+    position: absolute;
+    width: 60px;
+    height: 360px;
+    display: block;
+    z-index: 120;
+    top:-60;
+    left:0;
+}
+
+.outer:hover .inter {
+    display: block;
+    top: 303px;
+}
+
+.img {
+    width: 100%;
 }
 
 a {
