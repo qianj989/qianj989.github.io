@@ -1,0 +1,260 @@
+body {
+    background-color: white;
+    font-family: futura;
+    font-size: 30px;
+    color: gray;
+    margin: 0;
+}
+
+.word {
+    margin-top: 400px;
+    width: 400px;
+}
+
+.frame {
+    margin-left: 18%;
+    margin-top: 18%;
+    width: 700px;
+    height: 800px;
+    position: relative;
+    display: inline-block;
+}
+
+.shape1 {
+    position: absolute;
+    width: 520px;
+    height: 650px;
+    top: 75px;
+    left: 90px;
+}
+
+.shapeone {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 520px;
+    height: 650px;
+    display: none;
+}
+
+.shape1:hover .shapeone {
+    display: block;
+}
+
+.color1 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 480px;
+    height: 610px;
+    background-color: #4900c3;
+    transition: all 9s;
+}
+
+.color1:hover {
+    background-color: #00c3ae;
+}
+
+.shape2 {
+    position: absolute;
+    width: 440px;
+    height: 570px;
+    top: 20px;
+    left: 20px;
+}
+.shapetwo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 440px;
+    height: 570px;
+    display: none;
+}
+
+.shape2:hover .shapetwo {
+    display: block;
+}
+
+.color2 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 400px;
+    height: 530px;
+    background-color: #4900c3;
+    transition: all 8s;
+}
+
+.color2:hover {
+    background-color: #00c3ae;
+}
+
+.shape3 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 360px;
+    height: 490px;
+}
+
+.shapethree {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 360px;
+    height: 490px;
+    display: none;
+}
+
+.shape3:hover .shapethree {
+    display: block;
+}
+
+.color3 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 320px;
+    height: 450px;
+    background-color: #4900c3;
+    transition: all 6s;
+}
+
+.color3:hover {
+    background-color: #00c3ae;
+}
+
+.shape4 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 280px;
+    height: 410px;
+}
+
+.shapefour {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 410px;
+    display: none;
+}
+
+.shape4:hover .shapefour {
+    display: block;
+}
+
+.color4 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 240px;
+    height: 370px;
+    background-color: #4900c3;
+    transition: all 4s;
+}
+
+.color4:hover {
+    background-color: #00c3ae;
+}
+
+.shape5 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+    height: 330px;
+}
+
+.shapefive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 330px;
+    display: none;
+}
+
+.shape5:hover .shapefive {
+    display: block;
+}
+
+.color5 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 160px;
+    height: 290px;
+    background-color: #4900c3;
+    transition: all 3s;
+}
+
+.color5:hover {
+    background-color: #00c3ae;
+}
+
+.shape6 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 120px;
+    height: 250px;
+}
+
+.shapesix {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 250px;
+    display: none;
+}
+
+.shape6:hover .shapesix {
+    display: block;
+}
+
+.color6 {
+    position: absolute;
+    top:20;
+    left: 20;
+    width: 80px;
+    height: 210px;
+    background-color: #4900c3;
+    transition: all 2s;
+}
+
+.color6:hover {
+    background-color: #00c3ae;
+}
+
+.shape7 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 170px;
+}
+
+.shapeseven {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 170px;
+    display: none;
+}
+
+.shape7:hover .shapeseven {
+    display: block;
+}
+
+.img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
