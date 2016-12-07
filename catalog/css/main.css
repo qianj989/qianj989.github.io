@@ -1,0 +1,115 @@
+.card1 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 20%;
+    background-color: black;
+}
+
+.inner1 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.hover1 {
+    position: relative;
+    width: 100%;
+    margin-top: -255px;
+    opacity: 0;
+    transition: all 0.3s;
+    -webkit-animation: all 0.3s;
+    -o-transition: all 0.3;
+    -moz-transition: all 0.3;
+}
+
+.hover1:hover {
+    opacity: 1;
+}
+
+.card2 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 42.5%;
+    background-color: black;
+}
+
+.inner2 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card3 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 65%;
+    background-color: black;
+}
+
+.inner3 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card4 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: 20%;
+    background-color: black;
+}
+
+.inner4 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card5 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: 42.5%;
+    background-color: black;
+}
+
+.inner5 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card6 {
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: 65%;
+    background-color: black;
+}
+
+.inner6 {
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.bottom {
+    margin-top: 65%;
+    font-family: helvetica arial futura;
+}
