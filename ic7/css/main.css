@@ -68,3 +68,12 @@
 body {
     background-color: purple;
 }
+
+a {
+    font-size: 18px;
+    font-family: helvetic;
+    text-decoration: none;
+    color: #D4AF37;
+    margin-left: 20px;
+    margin-top: 20px;
+}

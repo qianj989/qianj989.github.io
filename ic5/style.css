@@ -2,7 +2,7 @@ body {
     background-color: white;
     font-family: futura;
     font-size: 30px;
-    color: gray;
+    color: #D4AF37;
     margin: 0;
 }
 
@@ -256,5 +256,6 @@ body {
 
 a {
     text-decoration: none;
-    color: gray;
+    color: #D4AF37;
+    font-size: 18px;
 }

@@ -1,9 +1,8 @@
 body {
     background-color: black;
-    font-family: impact;
-    font-size: 30px;
-    letter-spacing: 5px;
-    color: gray;
+    font-family: helvetic;
+    font-size: 18px;
+    color: #D4AF37;
     margin: 0;
 }
 p {
@@ -96,6 +95,5 @@ p {
 
 a {
     text-decoration: none;
-    color: gray;
-    letter-spacing: 1px;
+    color: #D4AF37;
 }

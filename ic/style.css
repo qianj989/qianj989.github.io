@@ -1,9 +1,8 @@
 body {
     background-color: white;
-    font-family: impact;
-    font-size: 30px;
-    letter-spacing: 5px;
-    color: gray;
+    font-family: helvetic;
+    font-size: 18px;
+    color: #D4AF37;
     
 }
 p {
@@ -172,5 +171,5 @@ p {
 
 a {
     text-decoration: none;
-    color: gray;
+    color: #D4AF37;
 }
