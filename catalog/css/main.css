@@ -1,3 +1,16 @@
+.title {
+    margin-top: 40px;
+    width: 500px;
+    height: 150px;
+}
+
+.toolbar {
+    font-family: arial;
+    font-size: 18px;
+    margin-top: 40px;
+    color: #D4AF37;
+}
+
 .card1 {
     width: 170px;
     height: 270px;
@@ -111,12 +124,12 @@
 
 .bottom {
     margin-top: 65%;
-    font-family: helvetica arial futura;
+    font-family: arial futura;
 }
 
 a {
     font-size: 20px;
-    font-family: helvetic;
+    font-family: arial;
     text-decoration: none;
     color: #D4AF37;
 }
